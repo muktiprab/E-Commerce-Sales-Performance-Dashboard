@@ -7,7 +7,7 @@ An interactive one-page Power BI dashboard analyzing a multi-year global e-comme
 
 ## Dashboard Preview
 
-![Dashboard Preview](dashboard_preview.png)
+![Dashboard Preview](Preview.jpg)
 
 *(Replace `dashboard_preview.png` with an exported screenshot of the final dashboard.)*
 
