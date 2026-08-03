@@ -1,0 +1,92 @@
+{
+  "name": "Ecommerce Dashboard Theme",
+  "dataColors": [
+    "#1CADE4",
+    "#C0504D",
+    "#F2C811",
+    "#77AB43",
+    "#2E86AB",
+    "#E67E22",
+    "#8E7CC3",
+    "#5B9BD5"
+  ],
+  "background": "#FFFFFF",
+  "foreground": "#252423",
+  "tableAccent": "#1CADE4",
+  "good": "#77AB43",
+  "neutral": "#F2C811",
+  "bad": "#C0504D",
+  "maximum": "#1CADE4",
+  "center": "#F2C811",
+  "minimum": "#C0504D",
+  "null": "#D9D9D9",
+  "textClasses": {
+    "callout": {
+      "fontSize": 32,
+      "fontFace": "Segoe UI Semibold",
+      "color": "#252423"
+    },
+    "title": {
+      "fontSize": 14,
+      "fontFace": "Segoe UI Semibold",
+      "color": "#252423"
+    },
+    "header": {
+      "fontSize": 12,
+      "fontFace": "Segoe UI Semibold",
+      "color": "#252423"
+    },
+    "label": {
+      "fontSize": 10,
+      "fontFace": "Segoe UI",
+      "color": "#252423"
+    }
+  },
+  "visualStyles": {
+    "*": {
+      "*": {
+        "title": [
+          {
+            "fontSize": 14,
+            "fontColor": { "solid": { "color": "#252423" } },
+            "background": { "solid": { "color": "#FFFFFF" } },
+            "alignment": "center"
+          }
+        ],
+        "legend": [
+          {
+            "fontSize": 10
+          }
+        ],
+        "categoryAxis": [
+          {
+            "gridlineColor": { "solid": { "color": "#F0F0F0" } },
+            "gridlineShow": true
+          }
+        ],
+        "valueAxis": [
+          {
+            "gridlineColor": { "solid": { "color": "#F0F0F0" } },
+            "gridlineShow": true
+          }
+        ]
+      }
+    },
+    "card": {
+      "*": {
+        "labels": [
+          {
+            "color": { "solid": { "color": "#252423" } },
+            "fontSize": 28
+          }
+        ],
+        "categoryLabels": [
+          {
+            "color": { "solid": { "color": "#666666" } },
+            "fontSize": 11
+          }
+        ]
+      }
+    }
+  }
+}
